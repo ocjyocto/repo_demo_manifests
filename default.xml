@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default sync-j="2"/>
+  <remote fetch="https://github.com/ocjyocto/" name="repodemocode" />
+  <project remote="repodemocode" revision="master" name="repo_demo_code1" path="sources/repodemocode/repo_demo_code1"/>
+</manifest>
